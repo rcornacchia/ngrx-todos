@@ -1,0 +1,4 @@
+# Ngrx Presentation
+
+Store
+Effects
